@@ -37,4 +37,3 @@ No backend or framework required — runs fully in browser.
 
 ---
 
-## 📂 **Project Structure**
